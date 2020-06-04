@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://dlsvr04.asus.com.cn/pub/ASUS/ZenFone/ZS620KL/UL-Z01R-WW-90.11.162.111-user.zip
-  ROM_NAME: ZenUI
+  ROM_URL: https://android.googleapis.com/packages/ota-api/vsmart_v620a_v620aopen/4e6bfa033a080d087accc7999ad571903220a960.zip
+  ROM_NAME: Vos
   TZ: Asia/Shanghai
 
 jobs:
