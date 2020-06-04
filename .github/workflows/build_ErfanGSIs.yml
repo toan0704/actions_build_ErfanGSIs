@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: https://android.googleapis.com/packages/ota-api/vsmart_v620a_v620aopen/4e6bfa033a080d087accc7999ad571903220a960.zip
-  ROM_NAME: Vos
+  ROM_NAME: Generic
   TZ: Asia/Shanghai
 
 jobs:
