@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://android.googleapis.com/packages/ota-api/vsmart_v620a_v620aopen/4e6bfa033a080d087accc7999ad571903220a960.zip
-  ROM_NAME: Generic
+  ROM_URL: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0250_all_b9Vgmy1EJ2Bc.ozip
+  ROM_NAME: OxygenOS
   TZ: Asia/Shanghai
 
 jobs:
