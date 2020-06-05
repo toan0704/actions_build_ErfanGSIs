@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://nchc.dl.sourceforge.net/project/i-o-n/device/xiaomi/whyred/ion-2.7.a-whyred-20200605-0046-OFFICIAL-Release.zip
-  ROM_NAME: Generic
+  ROM_URL: https://ayera.dl.sourceforge.net/project/revos/V12/MI6X/ROS-MIUI_MI6X_20.5.27_v12-9.zip
+  ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
 jobs:
