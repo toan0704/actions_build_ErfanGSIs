@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://android.googleapis.com/packages/ota-api/vsmart_coconut_coconutopen/11bfbee62e9b5c893170fd5ba37c8eb6585a6306.zip
-  ROM_NAME: Generic
+  ROM_URL: http://pan.east886.top/?/RedmiK20Pro/East-Auto%40Redmi%20K20%20Pro_DEV-20200302-20.2.28-10.0-a5d89067.zip
+  ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
 jobs:
