@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://svwh.dl.sourceforge.net/project/miroom/20.5.29/MiMIX2S_MIUI_20.5.29_MiRoom_10.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: https://nchc.dl.sourceforge.net/project/arrow-os/arrow-8.x/z2_plus/Arrow-v8.1-z2_plus-OFFICIAL-20180827.zip
+  ROM_NAME: Generic
   TZ: Asia/Shanghai
 
 jobs:
