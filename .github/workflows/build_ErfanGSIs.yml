@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://android.googleapis.com/packages/ota-api/vsmart_v420a_v420aopen/93e30f82a8a89b3f2fb9147fe52de211230de7d2.zip
+  ROM_URL: https://jaist.dl.sourceforge.net/project/posp/whyred/croquette/potato_whyred-10-20200607-croquette.v3.1.9%2B14.Official.zip
   ROM_NAME: Generic
   TZ: Asia/Shanghai
 
