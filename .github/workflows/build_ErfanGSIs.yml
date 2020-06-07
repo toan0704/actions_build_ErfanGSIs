@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: https://astuteinternet.dl.sourceforge.net/project/rmx1901/custom_recovery_StockROM_flashable_files/RMX1901_flashable_A06.zip
-  ROM_NAME: Generic
+  ROM_NAME: OxygenOS
   TZ: Asia/Shanghai
 
 jobs:
