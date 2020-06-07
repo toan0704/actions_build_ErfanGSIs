@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://jaist.dl.sourceforge.net/project/posp/whyred/croquette/potato_whyred-10-20200607-croquette.v3.1.9%2B14.Official.zip
+  ROM_URL: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0250_all_b9Vgmy1EJ2Bc.ozip
   ROM_NAME: Generic
   TZ: Asia/Shanghai
 
