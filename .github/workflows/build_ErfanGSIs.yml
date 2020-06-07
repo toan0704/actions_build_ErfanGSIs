@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://android.googleapis.com/packages/ota-api/vsmart_v620a_v620aopen/4e6bfa033a080d087accc7999ad571903220a960.zip
+  ROM_URL: http://googleapis.com/packages/ota-api/vsmart_v220a_v220aopen/9aedbedb74c53cbc28458b94d90994324bcf546a.zip
   ROM_NAME: Generic
   TZ: Asia/Shanghai
 
