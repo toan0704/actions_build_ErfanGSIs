@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0250_all_b9Vgmy1EJ2Bc.ozip
+  ROM_URL: https://astuteinternet.dl.sourceforge.net/project/rmx1901/custom_recovery_StockROM_flashable_files/RMX1901_flashable_A06.zip
   ROM_NAME: Generic
   TZ: Asia/Shanghai
 
