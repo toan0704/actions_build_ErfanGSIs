@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://nchc.dl.sourceforge.net/project/arrow-os/arrow-8.x/z2_plus/Arrow-v8.1-z2_plus-OFFICIAL-20180827.zip
+  ROM_URL: https://doc-00-0o-docs.googleusercontent.com/docs/securesc/jmseonsap9u00hit9l238sg1kgp0si3t/aoj188p2onbp3ejpfp2fja513o2slpd0/1591507950000/13991825999151293791/01854913209066256957/15KNM3VIIaEmXjKdQLxGNhjnUguEXAL-K?e=download&authuser=0&nonce=lmh453tlh6g6u&user=01854913209066256957&hash=9f5khc7rq8nhejuf68gr5a9cvpo8ffut
   ROM_NAME: Generic
   TZ: Asia/Shanghai
 
