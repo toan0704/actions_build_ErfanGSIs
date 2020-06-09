@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://astuteinternet.dl.sourceforge.net/project/rmx1901/custom_recovery_StockROM_flashable_files/RMX1901_flashable_A06.zip
-  ROM_NAME: OxygenOS
+  ROM_URL: https://github.com/Linux-On-Whyred/Linux_manifest/releases/download/08-06-2020/UbPorts-16.04-GSI-whyred-0806-2144.zip
+  ROM_NAME: Generic
   TZ: Asia/Shanghai
 
 jobs:
