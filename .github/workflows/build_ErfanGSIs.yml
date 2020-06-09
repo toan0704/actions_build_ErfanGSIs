@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://github.com/Linux-On-Whyred/Linux_manifest/releases/download/08-06-2020/UbPorts-16.04-GSI-whyred-0806-2144.zip
-  ROM_NAME: Generic
+  ROM_URL: https://doc-0c-a4-docs.googleusercontent.com/docs/securesc/jmseonsap9u00hit9l238sg1kgp0si3t/37ibellv761f3ctkrtma4l9b6k7a299o/1591722150000/00903453710378385293/01854913209066256957/1TAnI8Pt3Qw2LdwkNubStiIFCaaPqFjKG?e=download&authuser=0&nonce=ap1gmo5tpmncg&user=01854913209066256957&hash=i60fqnkifmd7medb1e9926389nemn7i9
+  ROM_NAME:  MIUI
   TZ: Asia/Shanghai
 
 jobs:
