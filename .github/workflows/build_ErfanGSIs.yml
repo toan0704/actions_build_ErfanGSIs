@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://svwh.dl.sourceforge.net/project/cherish-os/device/ginkgo/Cherish-OS-v1.3-20200606-1723-ginkgo-OFFICIAL.zip
-  ROM_NAME:  Generic
+  ROM_URL:        https://doc-10-1k-docs.googleusercontent.com/docs/securesc/jmseonsap9u00hit9l238sg1kgp0si3t/aits0rjscj6mrnq08vqrmri0m8ku31dk/1592719425000/07188100611580738904/01854913209066256957/1OCd4vFbDrwSQSZ2JU-ROs-aVqn3aiovP?e=download&authuser=0&nonce=h4rouadnt64p0&user=01854913209066256957&hash=090q8qmvbbq96etc05034jb60bec03kf
+  ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
 jobs:
