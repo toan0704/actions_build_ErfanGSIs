@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://svwh.dl.sourceforge.net/project/cherish-os/device/ginkgo/Cherish-OS-v1.3-20200606-1723-ginkgo-OFFICIAL.zip
+  ROM_URL: https://liquidtelecom.dl.sourceforge.net/project/legionrom/ugglite/Legion-v2.9-ugglite-OFFICIAL-20200617-Q.zip
   ROM_NAME:  Generic
   TZ: Asia/Shanghai
 
